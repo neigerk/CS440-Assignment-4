@@ -6,7 +6,7 @@
 
 using namespace std;
 const int M = 22;
-const string outputfile = "OUTPUT";
+const string outputfile = "EmpSorted.csv";
 
 
 int main(){
